@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MaddyPaddy2001
 - 👀 I’m interested in gaming, music and 
-- 🌱 I’m currently learning programming and math
-- 💞️ I’m looking to collaborate on different projects that help me learn more about programming oand coding.
-- 📫 How to reach me my email is: madelesj@stud.ntnu.no
+- 🌱 I’m currently learning programming at NTNU
+- 💞️ I'll be posting my school assignments and projects here
+- 📫 My email is: madelesj@stud.ntnu.no
 
 <!---
 MaddyPaddy2001/MaddyPaddy2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
