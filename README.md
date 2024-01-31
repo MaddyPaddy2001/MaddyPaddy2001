@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MaddyPaddy2001
-- 👀 I’m interested in gaming, music and 
 - 🌱 I’m currently learning programming at NTNU
 - 💞️ I'll be posting my school assignments and projects here
 - 📫 My email is: madelesj@stud.ntnu.no
